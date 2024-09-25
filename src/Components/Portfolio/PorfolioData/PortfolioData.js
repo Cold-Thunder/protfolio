@@ -2,11 +2,7 @@ import kidsAbc from '../../../Images/portfolio/kids_abc.png';
 import memeGen from '../../../Images/portfolio/meme-generator.png';
 import qrCode from '../../../Images/portfolio/qr-code.png';
 import notesKeeper from '../../../Images/portfolio/notes-keeper.png';
-import myMotors from '../../../Images/portfolio/myMotors.jpg';
 import bmiCalculator from '../../../Images/portfolio/bmi-calculator.png';
-import athena from '../../../Images/portfolio/Athena.jpg';
-import accesories from '../../../Images/portfolio/rj-accesories.jpg';
-import reen from '../../../Images/portfolio/reen.jpg';
 
 const portfolioData = [
 	{

@@ -7,7 +7,7 @@ const BlogCard = () => {
 	return (
 		<Col lg={4}>
 			<Blog>
-				<div className='blog-image'></div>
+				{/* <div className='blog-image'></div>
 				<div className='blog-content'>
 					<h4>Making API Calls with React Hooks</h4>
 					<p>
@@ -16,7 +16,7 @@ const BlogCard = () => {
 						in your application. It’s been 6 months since the
 						official release...
 					</p>
-				</div>
+				</div> */}
 			</Blog>
 		</Col>
 	);
