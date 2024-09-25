@@ -84,7 +84,7 @@ const InfoBox = styled.div`
 	.icon {
 		position: absolute;
 		left: 0;
-		color: #009e66;
+		color: #00aeff;
 		font-size: 40px;
 		top: -8px;
 	}

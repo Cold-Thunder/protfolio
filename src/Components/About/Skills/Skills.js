@@ -4,41 +4,34 @@ import { ExpTitle } from '../Experince/Experince';
 import SkillShape from '../SkillShape/SkillShape';
 
 const Comfortable = [
+	{ name: "Dart"},
+	{ name: 'Flutter'},
 	{ name: 'Javascript' },
 	{ name: 'ES6' },
 	{ name: 'ReactJs' },
+	{ name: 'React Native' },
 	{ name: 'React Router' },
-	{ name: 'React Hook Form' },
 	{ name: 'Html/Html5' },
 	{ name: 'Css/Css3' },
-	{ name: 'Bootstrap' },
-	{ name: 'React Bootstrap' },
-	{ name: 'JQuery' },
-	{ name: 'SCSS' },
 ];
 const Familiar = [
-	{ name: 'NodeJs' },
-	{ name: 'ExpresJs' },
+	{ name: 'Provider' },
 	{ name: 'Firebase' },
 	{ name: 'Redux' },
-	{ name: 'MongoDB' },
 	{ name: 'Material UI' },
-	{ name: 'Wordpress' },
 	{ name: 'C Language' },
+	{ name: 'Python'},
 	{ name: 'OOP' },
 	{ name: 'Responsive UI Design' },
 ];
 const Tools = [
 	{ name: 'Git' },
 	{ name: 'GitHub' },
-	{ name: 'GitLab' },
 	{ name: 'NPM' },
-	{ name: 'Heroku' },
 	{ name: 'Netlify' },
-	{ name: 'Chrome Dev Tool' },
+	{ name: 'Android Studio'},
 	{ name: 'VS Code' },
 	{ name: 'Linux' },
-	{ name: 'Slack' },
 ];
 const Skills = () => {
 	return (

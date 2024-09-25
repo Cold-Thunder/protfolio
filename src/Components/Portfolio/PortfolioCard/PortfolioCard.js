@@ -106,7 +106,7 @@ const Div = styled.div`
 				display: inline-block;
 				padding: 3px 5px;
 				box-shadow: 1px 1px 4px 0px #ffffff36;
-				color: #14b57c;
+				color: #00aeff;
 				font-size: 11px;
 				margin-right: 3px;
 			}
@@ -121,7 +121,7 @@ const Div = styled.div`
 				transitoin: .3s;
 
 				:hover{
-					color: #53FDC1;
+					color: #00aeff;
 				}
 			}
 		}

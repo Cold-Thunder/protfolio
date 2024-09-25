@@ -79,9 +79,9 @@ const CategoryBtn = styled.button`
 	z-index: 1;
 	font-size: 15px;
 	background: #212121;
-	text-shadow: 2px 0px 0px #009e66;
+	text-shadow: 2px 0px 0px #00aeff;
 	border: ${(props) =>
-		props.active ? '1px solid #009e66' : '1px solid #212121 '};
+		props.active ? '1px solid #00aeff' : '1px solid #212121 '};
 
 	&:focus {
 		outline: none;

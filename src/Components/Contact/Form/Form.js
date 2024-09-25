@@ -54,7 +54,7 @@ const FormContainer = styled.div`
 		font-weight: 300;
 		color: #fff;
 		:focus {
-			border-bottom: 1px solid #009e66;
+			border-bottom: 1px solid #00aeff;
 		}
 	}
 	textarea {

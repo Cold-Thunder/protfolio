@@ -32,15 +32,15 @@ const Blog = styled.div`
 		cursor: pointer;
 		transition: 0.3s;
 		:hover {
-			border-bottom: 5px solid #009e66;
+			border-bottom: 5px solid #00aeff;
 
 			h4 {
-				color: #009e66;
+				color: #00aeff;
 			}
 		}
 	}
 	:hover h4 {
-		color: #009e66;
+		color: #00aeff;
 	}
 
 	.blog-content {
@@ -52,7 +52,7 @@ const Blog = styled.div`
 			font-size: 20px;
 			cursor: pointer;
 			:hover {
-				color: #009e66;
+				color: #00aeff;
 			}
 		}
 		p {

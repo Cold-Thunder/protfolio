@@ -17,7 +17,7 @@ const ExperinceCard = ({
 
 const Expreince = styled.div`
 	padding: 20px 30px;
-	border-left: 3px solid #009e66;
+	border-left: 3px solid #1c79c0;
 	border-bottom: 1px solid #313131;
 	background: #161616;
 
@@ -30,7 +30,7 @@ const Expreince = styled.div`
 
 		::before {
 			content: '';
-			background: #009e66;
+			background: #1c79c0;
 			height: 15px;
 			width: 12px;
 			left: -32px;
@@ -44,7 +44,7 @@ const Expreince = styled.div`
 			top: 7px;
 			height: 11px;
 			width: 11px;
-			background: #009e66;
+			background: #1c79c0;
 			transform: rotate(45deg);
 		}
 	}

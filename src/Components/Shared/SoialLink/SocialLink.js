@@ -31,13 +31,12 @@ const links = [
 	},
 	{
 		icon: faTwitterSquare,
-		url: 'https://www.facebook.com/profile.php?id=100071112683576',
+		url: 'https://x.com/InsideEdge21',
 	},
 	{
 		icon: faInstagram,
-		url: 'https://www.facebook.com/profile.php?id=100071112683576',
+		url: 'https://www.instagram.com/coldthunder2023/',
 	},
-
 	{
 		icon: faFacebookSquare,
 		url: 'https://www.facebook.com/profile.php?id=100071112683576',
@@ -73,7 +72,7 @@ const Ul = styled.ul`
 		transition: 1s;
 
 		:hover {
-			color: #53fdc1;
+			color: #00aeff;
 			transform: rotate(360deg);
 		}
 	}
