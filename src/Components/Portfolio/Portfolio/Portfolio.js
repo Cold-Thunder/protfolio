@@ -41,23 +41,18 @@ const Portfolio = () => {
 							All
 						</CategoryBtn>
 						<CategoryBtn
-							active={category === 'fullstack' && true}
-							onClick={() => setCategory('fullstack')}
-						>
-							FullStack
-						</CategoryBtn>
-						<CategoryBtn
 							active={category === 'frontend' && true}
 							onClick={() => setCategory('frontend')}
 						>
 							Front End
 						</CategoryBtn>
 						<CategoryBtn
-							active={category === 'html' && true}
-							onClick={() => setCategory('html')}
+							active={category === 'fullstack' && true}
+							onClick={() => setCategory('fullstack')}
 						>
-							HTML
+							FullStack
 						</CategoryBtn>
+						
 					</div>
 				</Col>
 				{portfolios.map((portfolio, index) => (

@@ -8,15 +8,15 @@ const Comfortable = [
 	{ name: 'Flutter'},
 	{ name: 'Javascript' },
 	{ name: 'ES6' },
-	{ name: 'ReactJs' },
 	{ name: 'React Native' },
-	{ name: 'React Router' },
 	{ name: 'Html/Html5' },
 	{ name: 'Css/Css3' },
 ];
 const Familiar = [
 	{ name: 'Provider' },
 	{ name: 'Firebase' },
+	{ name: 'ReactJs' },
+	{ name: 'React Router' },
 	{ name: 'Redux' },
 	{ name: 'Material UI' },
 	{ name: 'C Language' },
