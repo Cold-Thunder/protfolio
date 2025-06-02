@@ -14,7 +14,9 @@ const Comfortable = [
 ];
 const Familiar = [
 	{ name: 'Provider' },
+	{ name: 'Bloc' },
 	{ name: 'Firebase' },
+	{ name: 'EventBus' },
 	{ name: 'ReactJs' },
 	{ name: 'React Router' },
 	{ name: 'Redux' },
