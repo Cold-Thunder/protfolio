@@ -15,6 +15,7 @@ const Comfortable = [
 const Familiar = [
 	{ name: 'Provider' },
 	{ name: 'Bloc' },
+	{ name: 'GetX' },
 	{ name: 'Firebase' },
 	{ name: 'EventBus' },
 	{ name: 'ReactJs' },
