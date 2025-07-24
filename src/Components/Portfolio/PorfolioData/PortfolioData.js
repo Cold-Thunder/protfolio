@@ -3,6 +3,8 @@ import memeGen from '../../../Images/portfolio/meme-generator.png';
 import qrCode from '../../../Images/portfolio/qr-code.png';
 import notesKeeper from '../../../Images/portfolio/notes-keeper.png';
 import bmiCalculator from '../../../Images/portfolio/bmi-calculator.png';
+import forexCal from '../../../Images/portfolio/forex_cal.png';
+import analogClock from '../../../Images/portfolio/analog_clock.png';
 
 const portfolioData = [
 	{
@@ -17,6 +19,36 @@ const portfolioData = [
 		link: {
 			git: '',
 			site: 'https://play.google.com/store/apps/details?id=com.kids_abc&pcampaignid=web_share',
+		},
+		category: 'frontend',
+	},
+	{
+		image: forexCal,
+		title: 'Forex Genius Calculator',
+		description: `Lot Sizing calculator for Forex Trader`,
+		technology: [
+			'Dart',
+			'Flutter',
+			'Styled Component',
+		],
+		link: {
+			git: '',
+			site: 'https://play.google.com/store/apps/details?id=com.cold_thunder.forex_genius_calculator',
+		},
+		category: 'frontend',
+	},
+	{
+		image: analogClock,
+		title: 'Analog Clock',
+		description: `Animated Analog Clock`,
+		technology: [
+			'Dart',
+			'Flutter',
+			'Styled Component',
+		],
+		link: {
+			git: '',
+			site: 'https://github.com/Cold-Thunder/analog_clock_with_flutter',
 		},
 		category: 'frontend',
 	},
