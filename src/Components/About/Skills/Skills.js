@@ -6,6 +6,7 @@ import SkillShape from '../SkillShape/SkillShape';
 const Comfortable = [
 	{ name: "Dart"},
 	{ name: 'Flutter'},
+	{ name: 'Rust'},
 	{ name: 'Javascript' },
 	{ name: 'ES6' },
 	{ name: 'React Native' },
@@ -15,6 +16,7 @@ const Comfortable = [
 const Familiar = [
 	{ name: 'Provider' },
 	{ name: 'Bloc' },
+	{ name: 'Riverpod' },
 	{ name: 'GetX' },
 	{ name: 'Firebase' },
 	{ name: 'EventBus' },
@@ -30,6 +32,7 @@ const Familiar = [
 const Tools = [
 	{ name: 'Git' },
 	{ name: 'GitHub' },
+	{ name: 'Firebase' },
 	{ name: 'NPM' },
 	{ name: 'Netlify' },
 	{ name: 'Android Studio'},
